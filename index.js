@@ -101,7 +101,7 @@ const {
   //--Kontak
   const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mr.Pato\n' // Nama
+  + 'FN:El crack.r.informatico \n' // Nama
   + 'ORG:Mr.El crack.r.informatico;\n' // Nama bot
   + 'TEL;type=CELL;type=VOICE;waid=:n' // Nomor bot
   + 'END:VCARD' 
